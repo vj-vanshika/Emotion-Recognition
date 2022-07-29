@@ -2,7 +2,7 @@
 
 ## Emotion Recognition using EEG dataset with the help of ML and Deep Learning Algorithms.
 
-<img src="/assets/picture1.jpg">
+<img src="https://github.com/vj-vanshika/Emotion-Recognition/blob/main/assets/Picture1.jpg">
 
 ## The main objective of this Project is :
 **-> To build a training model including physiological signals (EEG signals from the dataset) useful for detecting emotions with the help of machine and deep learning!**
