@@ -12,4 +12,4 @@ after collecting data, i've preprocessed it and applied Random Forest Classifier
 <p align="center">
 <img  src="https://github.com/vj-vanshika/Emotion-Recognition/blob/main/assets/Picture2.png" class="center">
 </p>
-For more details you can go through  my ppt emotion.ppt .
+For more details you can go through my work [Emotion Recognition](https://github.com/vj-vanshika/Emotion-Recognition/blob/main/emotion%20recognition.pdf)
