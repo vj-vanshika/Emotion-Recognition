@@ -4,7 +4,9 @@
 <p align="center">
 <img  src="https://github.com/vj-vanshika/Emotion-Recognition/blob/main/assets/Picture1.jpg" class="center">
 </p>
+
 ## The main objective of this Project is :
+
 **-> To build a training model including physiological signals (EEG signals from the dataset) useful for detecting emotions with the help of machine and deep learning!**
 
 At first, I have collected EEG signals dataset in csv format as shown in emotions.csv.
